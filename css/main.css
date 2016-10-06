@@ -12,14 +12,25 @@
 
 html {
     color: #222;
-    font-size: 20px;
+    font-size: 30px;
     line-height: 1.4;
-    font-family: 'Cabin', sans-serif;
+    font-family: 'Abril Fatface', cursive;
+    color:#ffffff;
 }
 
 body {
-    
+    margin:10% auto;
+	padding-top: 400px;
+	background-repeat:no-repeat;
+	width:596px;
+	height:647px;
+	background-image:url(../img/cinema1.jpg);
+  background-size: 100% 100%;
+	background-repeat: no-repeat;
+  max-width: 100%;
+  height: auto;
 }
+
 
 
  
